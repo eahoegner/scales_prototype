@@ -1,21 +1,4 @@
-# My Python repo
-<!--- Adding a one-line description of what this repository is for here may be
-helpful -->
-<!---
-
-We recommend having a status line in your repo to tell anyone who stumbles
-on your repository where you're up to. Some suggested options:
-
-- prototype: the project is just starting up and the code is all prototype
-- development: the project is actively being worked on
-- finished: the project has achieved what it wanted and is no longer being
-  worked on, we won't reply to any issues
-- dormant: the project is no longer worked on but we might come back to it, if
-  you have questions, feel free to raise an issue
-- abandoned: this project is no longer worked on and we won't reply to any
-  issues
-
--->
+# SCALES prototype
 
 ## Status
 
